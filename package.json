@@ -1,0 +1,29 @@
+{
+  "name": "@k2_tools/url-util",
+  "version": "1.0.0",
+  "description": "url utilities for javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js",
+    "test:watch": "node --experimental-vm-modules node_modules/jest/bin/jest.js --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/simonemmott/k2-tools-url-util.git"
+  },
+  "keywords": [
+    "url",
+    "builder",
+    "uri-encoded"
+  ],
+  "author": "Simon Emmott <simon.emmott@yahoo.co.uk>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/simonemmott/k2-tools-url-util/issues"
+  },
+  "homepage": "https://github.com/simonemmott/k2-tools-url-util#readme",
+  "devDependencies": {
+    "jest": "^28.1.3",
+    "jest-cli": "^28.1.3"
+  }
+}
