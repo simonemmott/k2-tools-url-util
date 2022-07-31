@@ -44,7 +44,7 @@ http://localhost:8080/api/widget/KEY?query=string
 The service parameter accepts and object with the following properties and describes the network location of a REST service
 
 | Property | Description | Default |
-| --- | --- |
+| --- | --- | --- |
 | `protocol` | The network protocol to access the service | `http:` |
 | `host` | The network host offering the service | `localhost` |
 | `port` | The network port to access the service | `80` |
