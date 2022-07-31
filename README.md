@@ -25,5 +25,5 @@ The urlUtil packages includes functions for working with URLs
 
 | Method | Description |
 | --- | --- |
-| [urlBuilder](./src/URL_BUILDER.md) | Builds a URL from given properties |
+| [urlBuilder](./docs/URL_BUILDER.md) | Builds a URL from given properties |
 
