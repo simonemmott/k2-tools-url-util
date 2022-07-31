@@ -32,25 +32,10 @@ const urlBuilder = (server = {}, uri = "", params = {}) => {
     }
   }
   url = url + localUri + queryStr;
-  return url;
+  return new URL("", url);
 };
 
-const setServer = (server, {protocol, host, port, contextPath}) => {
-  if (protocol) {
-    server.protocol = protocol;
-  }
-  if (host) {
-    server.host = host;
-  }
-  if (port) {
-    server.port = port;
-  }
-  if (contextPath) {
-    server.contextPath = contextPath;
-  }
-};
 
 module.exports = {
-	urlBuilder: urlBuilder,
-	setServer: setServer
+	urlBuilder: urlBuilder
 };
