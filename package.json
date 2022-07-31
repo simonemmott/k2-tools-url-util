@@ -1,0 +1,24 @@
+{
+  "name": "@k2_tools/url-util",
+  "version": "0.0.2",
+  "description": "url utilities for javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/simonemmott/k2-tools-url-util.git"
+  },
+  "keywords": [
+    "url",
+    "builder",
+    "uri-encoded"
+  ],
+  "author": "Simon Emmott <simon.emmott@yahoo.co.uk>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/simonemmott/k2-tools-url-util/issues"
+  },
+  "homepage": "https://github.com/simonemmott/k2-tools-url-util#readme"
+}
