@@ -1,3 +1,6 @@
+[![Total alerts](https://img.shields.io/lgtm/alerts/g/simonemmott/k2-tools-url-util.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/simonemmott/k2-tools-url-util/alerts/)
+[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/simonemmott/k2-tools-url-util.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/simonemmott/k2-tools-url-util/context:javascript)
+
 # K2 Tool URL Utilities
 Some simple utilities for working with URLs and parameters in javascript
 
